@@ -12,10 +12,10 @@ The EMPLOYEES ANALYSIS System is a MySQL-based project designed to provide compr
 2. **Common Table Expressions (CTEs)**: 
 
 3. **Window Functions**:
-4. 
-5. **Stored Procedures**: 
+ 
+4. **Stored Procedures**: 
 
-6. **User-Defined Functions**:
-7. 
-8. **Views**:
+5. **User-Defined Functions**:
+ 
+6. **Views**:
 
